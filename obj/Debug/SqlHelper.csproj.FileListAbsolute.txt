@@ -1,0 +1,15 @@
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\SqlHelper\SqlHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\SqlHelper\SqlHelper\bin\Debug\SqlHelper.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\SqlHelper\SqlHelper\bin\Debug\SqlHelper.pdb
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\SqlHelper\SqlHelper\obj\Debug\SqlHelper.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\SqlHelper\SqlHelper\obj\Debug\SqlHelper.pdb
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\SqlHelper20\SqlHelper\bin\Debug\SqlHelper.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\SqlHelper20\SqlHelper\bin\Debug\SqlHelper.pdb
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\SqlHelper20\SqlHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\SqlHelper20\SqlHelper\obj\Debug\SqlHelper.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\SqlHelper20\SqlHelper\obj\Debug\SqlHelper.pdb
+K:\Websites\COM\SqlHelper20\SqlHelper\bin\Debug\SqlHelper.dll
+K:\Websites\COM\SqlHelper20\SqlHelper\bin\Debug\SqlHelper.pdb
+K:\Websites\COM\SqlHelper20\SqlHelper\obj\Debug\ResolveAssemblyReference.cache
+K:\Websites\COM\SqlHelper20\SqlHelper\obj\Debug\SqlHelper.dll
+K:\Websites\COM\SqlHelper20\SqlHelper\obj\Debug\SqlHelper.pdb
